@@ -6,3 +6,63 @@
 body{
     font-family: sans-serif;
 }
+
+#nav-bar{
+    position: static;
+    z-index: 10;
+}
+.navbar{
+    background-image: linear-gradient( to  right , #a517ba ,#5f1782);
+}
+.navbar-brand img{
+    height: 40px;
+}
+.navbar-nav li a{
+    color: white;
+    font-weight: 600;
+}
+.navbar-collapse {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end; /* Optional for right alignment */
+}
+.fa-solid{
+    color: white;
+    font-size: 25px;
+}
+/*.................banner......*/
+#banner{
+    background-image:  linear-gradient( to  right , #a517ba ,#5f1782);
+    
+
+}
+.promo{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+}
+.play-btn{
+    height: 45px;
+    margin: 20px;
+}
+
+
+#banner a{
+   color: white;
+   text-decoration: none;
+}
+.bottom-img{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
