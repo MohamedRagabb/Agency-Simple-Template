@@ -107,7 +107,25 @@ body{
 }
 
 
+#testimoials{
+    margin: 100px 0;
+}
+
+.mt{
+    margin-top: 100px;
+}
 
 
+.testimoials{
+    border-left: 4px solid #7b1798;
+    margin-block: 50px;
+    
+}
+.testimoials img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    margin: 0 10px;
+}
 
 
